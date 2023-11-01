@@ -12,4 +12,14 @@
 |  Telegram    | [![Telegram](https://img.shields.io/badge/%20JISSHU%20BOTs%20™-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/JISSHU_BOTS)&nbsp;|
 | Github | [![GitHub followers](https://img.shields.io/github/followers/Madushankabro.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Jisshubot?tab=followers) |
 
+## 🏅 **Bot Authors**
+<details>
+    <summary><b>Click Here For Description</b></summary>
+
+|<img width="80" src="https://avatars.githubusercontent.com/u/105407900">|<img width="80" src="https://avatars.githubusercontent.com/u/113664541">|<img width="80" src="https://avatars.githubusercontent.com/u/84721324">|
+|:---:|:---:|:---:|
+|[`SilentDemonSD`](https://github.com/SilentDemonSD)|[`CodeWithWeeb`](https://github.com/weebzone)|[`Maverick`](https://github.com/MajnuRangeela)|
+|Author and DDL, UI Design, More Customs..|Author and Wraps Up Features|Co-Author & Bug Tester|
+
+</details>
  
