@@ -16,7 +16,7 @@
 <details>
     <summary><b>Click Here For Description</b></summary>
 
-|<img width="80" src="https://avatars.githubusercontent.com/u/105407900">|<img width="80" src="https://avatars.githubusercontent.com/u/113664541">|<img width="80" src="https://avatars.githubusercontent.com/u/84721324">|
+|<img width="80" src="https://graph.org/file/981a8994f41e5c959286e.jpg">|<img width="80" src="https://avatars.githubusercontent.com/u/113664541">|<img width="80" src="https://avatars.githubusercontent.com/u/84721324">|
 |:---:|:---:|:---:|
 |[`JISSHU-BOTS`](https://github.com/Jisshubot)|[`CodeWithWeeb`](https://github.com/weebzone)|[`Maverick`](https://github.com/MajnuRangeela)|
 |Author and DDL, UI Design, More Customs..|Author and Wraps Up Features|Co-Author & Bug Tester|
