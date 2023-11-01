@@ -5,8 +5,8 @@
 
 
 
-| **Platform** |  **Follow now**   |
-|------------|---------------------|
+| **Platform** |     **Follow now**      |
+|------------|---------------------------|
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/216dce16653e49d4b87d1f55caf03cb8)](https://app.codacy.com/gh/Madushankabro/TheElina-Bot?utm_source=github.com&utm_medium=referral&utm_content=Madushankabro/TheElina-Bot&utm_campaign=Badge_Grade_Settings) |
 |   Youtube   | [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UC2COV4jPD1hHbQMJuPnA3HA?label=E%20PUSTHAKALAYA%20BOTs%20™&style=social)](https://www.youtube.com/channel/UC2COV4jPD1hHbQMJuPnA3HA/videos) |
 |  Telegram    | [![Telegram](https://img.shields.io/badge/E%20PUSTHAKALAYA%20BOTs%20™-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/JISSHU_BOTS)&nbsp;|
