@@ -26,3 +26,7 @@
 |<img width="80" src="https://graph.org/file/981a8994f41e5c959286e.jpg">|
 |:---:|
 |[`JISSHU-BOTS`](https://github.com/Jisshubot)|
+
+|<img width="80" src="https://graph.org/file/981a8994f41e5c959286e.jpg">|<img width="80" src="https://avatars.githubusercontent.com/u/113664541">|
+|:---:|:---:|
+|[`JISSHU-BOTS`](https://github.com/Jisshubot)|[`CodeWithWeeb`](https://github.com/weebzone)|[
